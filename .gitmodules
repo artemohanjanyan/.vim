@@ -1,0 +1,6 @@
+[submodule "pack/plugins/start/nerdtree"]
+	path = pack/plugins/start/nerdtree
+	url = git@github.com:scrooloose/nerdtree.git
+[submodule "pack/plugins/start/vim-stylish-haskell"]
+	path = pack/plugins/start/vim-stylish-haskell
+	url = git@github.com:nbouscal/vim-stylish-haskell.git
