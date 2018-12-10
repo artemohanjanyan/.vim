@@ -33,3 +33,4 @@ nnoremap g# #
 filetype plugin indent on
 
 let g:indentLine_char = '·'
+let g:indentLine_fileTypeExclude = ['help', 'nerdtree']
