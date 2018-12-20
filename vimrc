@@ -27,11 +27,6 @@ set autoindent
 nnoremap ; :
 nnoremap : ;
 
-nnoremap * g*
-nnoremap g* *
-nnoremap # g#
-nnoremap g# #
-
 filetype plugin indent on
 
 let g:indentLine_char = '·'
