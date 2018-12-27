@@ -31,3 +31,6 @@ filetype plugin indent on
 
 let g:indentLine_char = '·'
 let g:indentLine_fileTypeExclude = ['help', 'nerdtree']
+
+let g:localvimrc_persistence_file = $HOME.'/.vim/localvimrc_persistent'
+let g:localvimrc_persistent = 2
